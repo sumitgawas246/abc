@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hii hellovwvwvwvwvw
 s
+=======
+hii hello
+erergerhehegh
+>>>>>>> 43082b2922b45bffbccccfd6542e68ffda2a1127
